@@ -1,5 +1,5 @@
 /* Especie de arreglo para exportar (Base de datos) */
-import {Task} from "./task"
+import {Task} from "./Task"
 
 export const TASKS:Task[]  = [ 
     {
